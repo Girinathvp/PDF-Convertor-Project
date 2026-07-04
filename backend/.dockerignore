@@ -1,9 +1,0 @@
-**/__pycache__
-**/*.pyc
-backend/venv
-backend/uploads/*
-backend/outputs/*
-.git
-.gitignore
-*.xlsx
-*.pdf
